@@ -1,0 +1,8 @@
+a =(1, 35,46.69, False, "Aishik", 'a') #This is a tuple
+# TUples are immutable
+#a[0] = 45<== wont work
+print(type(a))
+
+#only a single element
+b= (4,)
+print(type(b))
