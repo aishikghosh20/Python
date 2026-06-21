@@ -1,7 +1,9 @@
 ROCK PAPER SCISSORS (CLI)
+
 A colorful command-line implementation of the classic Rock Paper Scissors game built in Python.
 
 Features-
+
 - Colorful terminal interface using ANSI escape codes
 - Input validation and error handling
 - Random computer choices
@@ -10,6 +12,7 @@ Features-
 - Suspense effects using timed delays
 
 How to Play-
+
 1. Run the game.
 2. Choose:
    - 1 = Rock
@@ -23,12 +26,14 @@ How to Play-
 5. Continue playing to improve your score.
 
 Technologies Used-
+
 - Python
 - Random Module
 - Time Module
 - ANSI Escape Codes
 
 Learning Outcomes-
+
   This project helped me practice:
   - Functions
   - Dictionaries
@@ -39,4 +44,5 @@ Learning Outcomes-
   - Modular program design
 
 Author-
+
 Aishik Ghosh
