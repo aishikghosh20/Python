@@ -45,14 +45,6 @@ What I Learned
 - Handling user input and validation
 - Packaging Python applications using PyInstaller
 
-Future Improvements
-
-- Task priorities
-- Due dates
-- Search functionality
-- SQLite database integration
-- GUI version using Tkinter or CustomTkinter
-
 Author
 
 Aishik Ghosh
