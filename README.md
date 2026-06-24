@@ -1,6 +1,6 @@
 Python
 
-This repository contains my Python learning journey, including practice programs, exercises, and projects built while studying Python and Harvard CS50.
+This repository contains my Python learning journey, including practice programs, exercises, and projects.
 
 Topics Covered
 
