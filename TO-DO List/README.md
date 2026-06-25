@@ -49,4 +49,4 @@ Author
 
 Aishik Ghosh
 
-Project URL: https://github.com/aishikghosh20/Python/tree/master/TO-DO%20List
+This is project was inspired from: https://roadmap.sh/projects/task-tracker
