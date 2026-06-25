@@ -49,4 +49,5 @@ Author
 
 Aishik Ghosh
 
-This is project was inspired from: https://roadmap.sh/projects/task-tracker
+Project source
+This is a project from Roadmap.sh. Click this link to checkout the project : https://roadmap.sh/projects/task-tracker
