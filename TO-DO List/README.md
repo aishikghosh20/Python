@@ -50,4 +50,4 @@ Author
 Aishik Ghosh
 
 Project source
-This is a project from Roadmap.sh. Click this link to checkout the project : https://roadmap.sh/projects/task-tracker
+This is a project from Roadmap.sh. Click this link to checkout the project : [https://roadmap.sh/projects/task-tracker](https://roadmap.sh/projects/task-tracker)
